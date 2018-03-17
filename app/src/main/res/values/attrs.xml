@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomerProgressBar"
+        >
+        <attr name="imgRes" format="reference" />
+        <attr name="progressBarColor" format="color" />
+        <attr name="progress" format="string" />
+    </declare-styleable>
+</resources>
